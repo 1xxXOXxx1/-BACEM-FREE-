@@ -10,8 +10,8 @@
 # pip install rich
 # pip install mechanize
 # pkg install git - y
-# git clone https://github.com/AXOM959/BACM.git
-# cd BACM
+# git clone https://github.com/AXOM959/BSM.git
+# cd BSM
 # chmod +x *
 # python MMSP.py
 
